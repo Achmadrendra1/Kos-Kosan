@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355191918211",
+    "project_id": "kos-kosan-bwa",
+    "storage_bucket": "kos-kosan-bwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355191918211:android:da2b3272a5f800510fd5b6",
+        "android_client_info": {
+          "package_name": "com.example.kos_kosan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355191918211-b3icd9u81o7o46rcf84vvipl1bnkok6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAks29cS3131mqONebspfogSJgC7pNmkgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355191918211-b3icd9u81o7o46rcf84vvipl1bnkok6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
